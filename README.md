@@ -1,5 +1,5 @@
 # 2013 MacbookPro 15" Retina Linux Testing
-Here i will be putting all the information that i find when trying to install linux on an old macbook from 2013.
+Here i will be putting all the information that i find when trying to install linux on an old macbook from 2013. Detailed breakdown of points will be located in the Notes of each distro.
 
 ## Why i'm doing this
 I've always liked my old MacbookPro but OSX has become unsupported on it due to how old it is. Time to breathe fresh life into an old laptop that still runs decent. To answer the question no one asked, "yes" i will be updating this repo only from my MacBook.
@@ -23,7 +23,7 @@ Drive: 250 GiB
 | Fedora Workstation | TBD | LinkToNotes | [Fedora Workstation](https://www.fedoraproject.org/) |
 
 ## How Scoring Works
-Scoring will be based on these points added up;
+Scoring will be based on these points added up.
 - Installation (? / 5)
 - Out Of The Box Usability (? / 5)
   - WiFi?
@@ -34,5 +34,5 @@ Scoring will be based on these points added up;
 - Battery Life (? / 5)
 - Usability (? / 5)
 - Customization (? / 5)
-*Detailed breakdown of points will be located in the Notes of each distro*
+
 *(Note this is a work in progress and will likely change)*
