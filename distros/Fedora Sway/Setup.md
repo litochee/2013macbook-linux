@@ -87,9 +87,14 @@ sudo iw dev wlan0 set power_save on
 ## Sway Config Changes
 Couple of things i changed in sway to make it more to my liking `nano ~/.config/sway/config`
 ### Monitor Scale 1.5 instead of 2
-Check Display Output Name `swaymsg -t get_outputs`
-Test Scaling `swaymsg output eDP-1 scale 1.5`
-Add to config:
+1. Check Display Output Name `swaymsg -t get_outputs`
+2. Test Scaling `swaymsg output eDP-1 scale 1.5`
+3. Add to Sway config:
 ```
 output eDP-1 scale 1.5
+```
+### Set Background
+Add to sway config
+```
+exec_always swaybg --image /path/to/image.jpg
 ```
